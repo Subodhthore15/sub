@@ -5,4 +5,4 @@
   clrscr();
   printf("hello world);
   getch();
-  }hell
+  }
